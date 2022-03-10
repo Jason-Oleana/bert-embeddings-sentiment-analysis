@@ -7,8 +7,8 @@
 ### 1. Go to project dir
 
 ```shell
-git clone https://gitlab.com/jasongeniusvoice/mlapp.git
-cd mlapp
+git clone https://github.com/Jason-Oleana/bert-embeddings-sentiment-analysis.git
+cd bert-embeddings-sentiment-analysis
 ```
 
 ### 2. Docker build image
