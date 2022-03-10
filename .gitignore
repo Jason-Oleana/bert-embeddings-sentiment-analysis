@@ -1,0 +1,5 @@
+# ignore
+mlenv/*
+notebooks/.ipynb_checkpoints/*
+models/*
+fastapi/__pycache__/*
