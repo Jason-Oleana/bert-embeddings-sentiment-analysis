@@ -1,8 +1,13 @@
+# Bert embeddings sentiment analysis
+
+<p align="center">
+<img src="downstream.png" width="600"/>
+</p>
+
 ## Part I. Install requirements & train model
 
 - Docker (https://docs.docker.com/get-docker)
 - Git (https://git-scm.com/downloads)
-- Visual studio code (https://code.visualstudio.com/)
 
 ### 1. Go to project dir
 
